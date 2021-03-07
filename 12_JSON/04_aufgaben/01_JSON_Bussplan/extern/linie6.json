@@ -1,0 +1,18 @@
+{
+  "id" : "linie6",
+  "liniennummer" : 6,
+  "kurzbeschreibung" : "Bahnhofplatz – City West",
+  "haltestellen" : [
+    "Bahnhofplatz",
+    "Post 1",
+    "Benerpark",
+    "Rätusstrasse",
+    "Boletta",
+    "Salvatorenstrasse",
+    "City West",
+    "Medienhaus",
+    "Sommeraustr. Rossboden",
+    "Rheinfels",
+    "Kleinbruggen"
+  ]
+}

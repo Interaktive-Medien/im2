@@ -1,0 +1,21 @@
+<h2>9</h2>
+<h3>Bahnhofplatz – Meiersboden</h3>
+<ul>
+  <li>Bahnhofplatz</li>
+  <li>Alexanderplatz</li>
+  <li>Quader Center</li>
+  <li>Reichsgasse</li>
+  <li>Planaterrastrasse</li>
+  <li>Hof</li>
+  <li>Turnhalle Sand</li>
+  <li>Sandstrasse</li>
+  <li>Krematorium</li>
+  <li>Plessurfall</li>
+  <li>Sassal</li>
+  <li>Rabiosabrücke</li>
+  <li>Meiersboden</li>
+  <li>Bodmer</li>
+  <li>Malteser</li>
+  <li>Fontanaplatz</li>
+  <li>Postplatz</li>
+</ul>

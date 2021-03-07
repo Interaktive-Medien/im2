@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>AJAX | Lösung der Übung 4</title>
+  </head>
+  <body style="background: #e2fead;">
+    <h1>AJAX | Lösung der Übung 4</h1>
+    <h2>04_inhalt_interaktiv_austauschen</h2>
+    <h3>externe Inhalte mit Hilfe von Buttons austauschen</h3>
+
+<!--  /* ************** Aufgabe **************
+     1. Erstellen Sie in Anlehnung zu 1_beispiele/04_inhalt_interaktiv_austauschen jeweils einen Button für die Kantone Bern und Graubünden.
+        Bei Klick auf deinen Button soll der passende Inhalt auf der Webseite angezeigt werden.
+        (Bern       -> extern/html_kanton1.txt)
+        (Graubünden -> extern/html_kanton2.txt)
+-->
+    <!--  Das Button-Element erhält ein von uns definiertes data-Attribut mit dem Namen data-Dateiname.
+          Als Wert erhält das Attribut den Dateinamen (ohne Erweiterung) der externen Datei, die mit fetch() geladen werden soll.
+          Zum Thema data_Attribut siehe: https://wiki.selfhtml.org/wiki/HTML/Universalattribute/data-Attribute
+    -->
+    <div class="container">
+      <div class="buttons">
+<!-- 1. -->
+        <button class="btn" data-dateiname="html_kanton1">Bern</button><br>
+        <button class="btn" data-dateiname="html_kanton2">Graubünden</button><br>
+      </div>
+      <div id="anzeige">
+
+      </div>
+    </div>
+
+    <script src="js/control.js"></script>
+  </body>
+</html>

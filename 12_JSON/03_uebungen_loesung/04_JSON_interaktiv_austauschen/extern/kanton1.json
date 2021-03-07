@@ -1,0 +1,10 @@
+{
+  "name" : "Bern",
+  "amtssprache": ["Deutsch", " Französich"],
+  "hauptort": "Bern",
+  "flaeche": 5959.24,
+  "bevoelkerung": {
+    "einwohner" : 1034977,
+    "quote": "2,9 %"
+  }
+}

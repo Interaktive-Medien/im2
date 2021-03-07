@@ -1,0 +1,12 @@
+<ul>
+  <li>Kantonsname: Bern</li>
+  <li>Amtsprachen:
+    <ul>
+      <li>Deutsch</li>
+      <li> Französich</li>
+    </ul>
+  </li><li>Hauptort: Bern</li>
+  <li>Fläche: 5959.24</li>
+  <li>Einwohner: 1034977</li>
+  <li>Arbeitslosenquote: 2,9 %</li>
+</ul>

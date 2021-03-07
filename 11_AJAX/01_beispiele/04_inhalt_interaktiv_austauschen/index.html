@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>AJAX | Beispiel 4</title>
+  </head>
+  <body>
+    <h1>AJAX | Beispiel 4</h1>
+    <h2>04_inhalt_interaktiv_austauschen</h2>
+    <h3>externe Inhalte mit Hilfe von Buttons austauschen</h3>
+    <div id="container">
+      <div class="buttons">
+  <!--  Das Button-Element erhält ein von uns definiertes data-Attribut mit dem Namen data-Dateiname.
+        Als Wert erhält das Attribut den Dateinamen (ohne Erweiterung) der externen Datei, die mit fetch() geladen werden soll.
+        Zum Thema data_Attribut siehe: https://wiki.selfhtml.org/wiki/HTML/Universalattribute/data-Attribute
+  -->
+        <button class="btn" data-dateiname="html_person1">Urs Thöny</button><br>
+        <button class="btn" data-dateiname="html_person2">Alina Weisser</button><br>
+      </div>
+      <div id="anzeige">
+
+      </div>
+    </div>
+
+		<script src="js/control.js"></script>
+  </body>
+</html>

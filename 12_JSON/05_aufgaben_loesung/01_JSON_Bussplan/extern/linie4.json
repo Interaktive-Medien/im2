@@ -1,0 +1,33 @@
+{
+  "id" : "linie4",
+  "liniennummer" : 4,
+  "kurzbeschreibung" : "Austrasse – Bahnhofplatz – Seniorenzentrum Cadonau",
+  "haltestellen" : [
+    "Badusstrasse",
+    "Schönmattweg",
+    "Albula",
+    "Scawoba",
+    "Austrasse",
+    "Altes Gaswerk",
+    "Sardona",
+    "Fortunastrasse",
+    "Florentini",
+    "Oberalpstrasse",
+    "Post 1",
+    "Bahnhofplatz",
+    "Alexanderplatz",
+    "Quader Center",
+    "Schulhaus Quader",
+    "Neubruchstrasse",
+    "Splügenstrasse",
+    "Sonnenbergstrasse",
+    "Kreuzspital",
+    "Calunastrasse",
+    "Rosengarten",
+    "Kantonsspital",
+    "Waldhaus",
+    "Cadonaustrasse",
+    "Bürgerheim",
+    "Seniorenzentrum Cadonau"
+  ]
+}

@@ -1,0 +1,15 @@
+<h2>6</h2>
+<h3>Bahnhofplatz – City West</h3>
+<ul>
+  <li>Bahnhofplatz</li>
+  <li>Post 1</li>
+  <li>Benerpark</li>
+  <li>Rätusstrasse</li>
+  <li>Boletta</li>
+  <li>Salvatorenstrasse</li>
+  <li>City West</li>
+  <li>Medienhaus</li>
+  <li>Sommeraustr. Rossboden</li>
+  <li>Rheinfels</li>
+  <li>Kleinbruggen</li>
+</ul>

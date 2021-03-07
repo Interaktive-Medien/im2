@@ -1,0 +1,9 @@
+{
+  "anrede": "Herr",
+  "name": {
+    "vorname": "Urs",
+    "nachname": "Thöny"
+  },
+  "interessen": ["Film", "Fahrrad fahren"],
+  "alter": 42
+}

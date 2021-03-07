@@ -1,0 +1,92 @@
+
+/* Title */
+
+h1 {
+
+}
+
+h3 {
+
+}
+
+h4 {
+
+}
+
+h6 {
+
+}
+
+
+/* Texte */
+
+a,
+a:hover,
+a:visited,
+a:link,
+a:active {
+    text-decoration: none;
+}
+
+p {
+
+}
+
+
+/* Boxen */
+
+body {
+    background-color: #2F384B;
+    color: #E3E0DB;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+section {
+    margin-bottom: 150px;
+}
+
+form {
+
+}
+
+article {
+    border: #E3E0DB 1px solid;
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+
+
+/* Timer-Klassen ---- BITTE NICHT VERÄNDERN */
+.timer {
+    width: 100%;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    text-align: center;
+}
+
+.timer__zeit {
+    font-size: 25px;
+}
+
+.timer__fortschritt {
+    width: 100%;
+    margin-top: 30px;
+    height: 60px;
+    background-color: #3D4457;
+}
+
+.timer__fortschritt--aktiv {
+    width: 0%;
+    height: 100%;
+    background-color: #FE4E4D;
+}
+
+.timer__skala {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 10px;
+}

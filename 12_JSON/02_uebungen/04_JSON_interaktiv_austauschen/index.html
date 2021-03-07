@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>JSON | Übung 4</title>
+  </head>
+  <body style="background: #fff7d0;">
+    <h1>JSON | Übung 4</h1>
+    <h2>04_JSON_interaktiv_austauschen</h2>
+    <h3>JSON-Inhalte mit Hilfe von Buttons austauschen</h3>
+    <div id="container">
+      <div id="buttons">
+        <!--  Das Button-Element erhält ein von uns definiertes data-Attribut mit dem Namen data-Dateiname.
+              Als Wert erhält das Attribut den Dateinamen (ohne Erweiterung) der externen Datei, die mit fetch() geladen werden soll.
+              Zum Thema data_Attribut siehe: https://wiki.selfhtml.org/wiki/HTML/Universalattribute/data-Attribute
+        -->
+        <button class="btn" data-dateiname="kanton1">Bern</button><br>
+        <button class="btn" data-dateiname="kanton2">Graubünden</button><br>
+      </div>
+      <div id="anzeige">
+
+      </div>
+    </div>
+
+    <script src="js/control.js"></script>
+  </body>
+</html>

@@ -1,0 +1,10 @@
+{
+  "name" : "Graubünden",
+  "amtssprache": ["Deutsch", " Rätoromanisch", "Italienisch"],
+  "hauptort": "Chur",
+  "flaeche": 7105,
+  "bevoelkerung": {
+    "einwohner" : 198379,
+    "quote": "2,1 %"
+  }
+}

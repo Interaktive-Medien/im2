@@ -1,0 +1,23 @@
+.hidden{
+  display: none;
+}
+
+.wrapper{
+  text-align: center;
+}
+
+#koch {
+  font-size: 150px;
+}
+
+button {
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  cursor: pointer;
+
+  position: absolute;
+  top: 50%;
+}

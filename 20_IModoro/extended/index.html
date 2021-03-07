@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+    <head>
+        <meta charset="utf-8">
+        <title>Pomodoro</title>
+        <!-- Meta-Tags -->
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- Schriften -->
+
+
+        <!-- Stylesheets -->
+        <link rel="stylesheet" href="css/style.css">
+
+        <!-- Scripte -->
+        <script src="js/easytimer.js"></script>
+        <script src="js/control.js"></script>
+    </head>
+    <body>
+
+        <!-- Section Title -->
+        <section>
+            <h1>IModoro</h1>
+        </section>
+
+        <!-- Section Pomodoro starten -->
+        <section id="pomodoroNeu">
+            <h3>Neuer Pomodoro</h3>
+            <form id="pomodoroNeuFormular" action="index.html" method="post">
+                <label>Fach</label>
+                <input type="text" id="uebungName" placeholder="IM"><br>
+                <label>Thema</label>
+                <input type="text" id="uebungBeschreibung" placeholder="for-Schleifen"><br>
+                <button type="submit">Pomodoro starten</button>
+            </form>
+        </section>
+
+        <!-- Section Timer -->
+        <section id="pomodoroTimer">
+            <h3>Pomodoro Timer</h3>
+
+            <div class="timer">
+                <div class="timer__zeit" id="zeitAnzeige">..:..</div>
+
+                <div class="timer__fortschritt">
+                    <div class="timer__fortschritt--aktiv" id="pomoBalken"></div>
+                </div>
+
+                <div class="timer__skala">
+                    <div class="timer__skala--anfang">00:00</div>
+                    <div class="timer__skala--ende">25:00</div>
+                </div>
+            </div>
+
+            <form id="pomodoroAbbruchFormular">
+                <button type="submit">Abbrechen</button>
+            </form>
+
+            <audio src="audio/bell.mp3" id="audioPlayer"></audio>
+
+        </section>
+
+        <!-- Section Vergangene Pomodoros -->
+        <section id="pomodoroListe">
+            <h3>Vergangene Pomodoros</h3>
+
+            <!-- Möglicher Eintrag  -->
+            <!-- <article>
+                <h4>Titel</h4>
+                <p>Testtext, Testtext</p>
+            </article> -->
+
+        </section>
+    </body>
+</html>

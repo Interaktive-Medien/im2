@@ -1,0 +1,24 @@
+{
+  "id" : "linie9",
+  "liniennummer" : 9,
+  "kurzbeschreibung" : "Bahnhofplatz – Meiersboden",
+  "haltestellen" : [
+    "Bahnhofplatz",
+    "Alexanderplatz",
+    "Quader Center",
+    "Reichsgasse",
+    "Planaterrastrasse",
+    "Hof",
+    "Turnhalle Sand",
+    "Sandstrasse",
+    "Krematorium",
+    "Plessurfall",
+    "Sassal",
+    "Rabiosabrücke",
+    "Meiersboden",
+    "Bodmer",
+    "Malteser",
+    "Fontanaplatz",
+    "Postplatz"
+  ]
+}

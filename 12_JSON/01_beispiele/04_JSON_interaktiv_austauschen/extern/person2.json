@@ -1,0 +1,9 @@
+{
+  "anrede": "Frau",
+  "name": {
+    "vorname": "Alina",
+    "nachname": "Thöny"
+  },
+  "alter": 42,
+  "interessen": ["Musik", "Ski fahren", "surfen", "HTML/CSS"]
+}

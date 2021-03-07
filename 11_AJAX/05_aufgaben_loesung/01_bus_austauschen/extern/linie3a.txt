@@ -1,0 +1,31 @@
+<h2>3</h2>
+<h3>Austrasse – Bahnhofplatz – Stelleweg – Haldenstein</h3>
+<ul>
+  <li>Oberalpstrasse</li>
+  <li>Florentini</li>
+  <li>Fortunastrasse</li>
+  <li>Sardona</li>
+  <li>Altes Gaswerk</li>
+  <li>Austrasse</li>
+  <li>Scawoba</li>
+  <li>Albula</li>
+  <li>Schönmattweg</li>
+  <li>Gewerbliche Berufsschule</li>
+  <li>Post 1</li>
+  <li>Bahnhofplatz</li>
+  <li>Alexanderplatz</li>
+  <li>Quader Center</li>
+  <li>Quaderwiese</li>
+  <li>Rigahaus</li>
+  <li>Kreuzgasse</li>
+  <li>Weinbergstrasse</li>
+  <li>Heiligkreuz</li>
+  <li>Weisstorkel</li>
+  <li>Masans Kirche</li>
+  <li>Stelleweg</li>
+  <li>Haldenstein, Rheinbrücke</li>
+  <li>Haldenstein, Hanfländer</li>
+  <li>Haldenstein, Dorf</li>
+  <li>Haldenstein, Schulhaus</li>
+  <li>Haldenstein, Usserdorfstrasse</li>
+</ul>

@@ -1,0 +1,30 @@
+<h2>4</h2>
+<h3>Austrasse – Bahnhofplatz – Seniorenzentrum Cadonau</h3>
+<ul>
+  <li>Badusstrasse</li>
+  <li>Schönmattweg</li>
+  <li>Albula</li>
+  <li>Scawoba</li>
+  <li>Austrasse</li>
+  <li>Altes Gaswerk</li>
+  <li>Sardona</li>
+  <li>Fortunastrasse</li>
+  <li>Florentini</li>
+  <li>Oberalpstrasse</li>
+  <li>Post 1</li>
+  <li>Bahnhofplatz</li>
+  <li>Alexanderplatz</li>
+  <li>Quader Center</li>
+  <li>Schulhaus Quader</li>
+  <li>Neubruchstrasse</li>
+  <li>Splügenstrasse</li>
+  <li>Sonnenbergstrasse</li>
+  <li>Kreuzspital</li>
+  <li>Calunastrasse</li>
+  <li>Rosengarten</li>
+  <li>Kantonsspital</li>
+  <li>Waldhaus</li>
+  <li>Cadonaustrasse</li>
+  <li>Bürgerheim</li>
+  <li>Seniorenzentrum Cadonau</li>
+</ul>

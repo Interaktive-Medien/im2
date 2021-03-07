@@ -1,0 +1,38 @@
+<h2>3</h2>
+<h3>Austrasse – Bahnhofplatz – Trimmis – Untervaz</h3>
+<ul>
+  <li>Oberalpstrasse</li>
+  <li>Florentini</li>
+  <li>Fortunastrasse</li>
+  <li>Sardona</li>
+  <li>Altes Gaswerk</li>
+  <li>Austrasse</li>
+  <li>Scawoba</li>
+  <li>Albula</li>
+  <li>Schönmattweg</li>
+  <li>Gewerbliche Berufsschule</li>
+  <li>Post 1</li>
+  <li>Bahnhofplatz</li>
+  <li>Alexanderplatz</li>
+  <li>Quader Center</li>
+  <li>Quaderwiese</li>
+  <li>Rigahaus</li>
+  <li>Kreuzgasse</li>
+  <li>Weinbergstrasse</li>
+  <li>Heiligkreuz</li>
+  <li>Weisstorkel</li>
+  <li>Masans Kirche</li>
+  <li>Oldtimer</li>
+  <li>Halbmil</li>
+  <li>Trimmis, Churweg</li>
+  <li>Trimmis, Saliet</li>
+  <li>Trimmis, Gargällis</li>
+  <li>Trimmis, Alt Strass</li>
+  <li>Zizers, Tennishalle</li>
+  <li>Untervaz, Bahnhof</li>
+  <li>Untervaz, Holcim</li>
+  <li>Untervaz, Kirchgasse</li>
+  <li>Untervaz, Dorf</li>
+  <li>Untervaz, Giesacker</li>
+  <li>Untervaz, Gaidla</li>
+</ul>

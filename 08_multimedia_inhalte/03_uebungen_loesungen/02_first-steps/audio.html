@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Audio abspielen</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    </head>
+    <body>
+        <!-- Audio mit eigenen controls -->
+        <h1>Audio mit 'controls'</h1>
+        <audio src="media/yeah.mp3" controls></audio>
+
+        <hr>
+
+        <!-- Audio mit Play-Button -->
+        <h1>'Unsichtbares' Audio mit Playbutton</h1>
+        <button id="play-button">Play</button>
+        <br>
+        <audio id="yeah-audio" src="media/yeah.mp3"></audio>
+
+        <script src="js/audio_control.js"></script>
+    </body>
+</html>

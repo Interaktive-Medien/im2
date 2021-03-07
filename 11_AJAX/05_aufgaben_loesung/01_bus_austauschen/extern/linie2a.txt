@@ -1,0 +1,31 @@
+<h2>2</h2>
+<h3>Obere Au – Bahnhofplatz – Fürstenwald</h3>
+<ul>
+  <li>Kleinbruggen</li>
+  <li>Rheinfels</li>
+  <li>Sommeraustr. Rossboden</li>
+  <li>Medienhaus/Rossboden</li>
+  <li>Rossboden</li>
+  <li>Obere Au P&#038;R</li>
+  <li>Obere Au</li>
+  <li>Grossbruggerweg</li>
+  <li>Industriestrasse</li>
+  <li>HTW Ringstrasse</li>
+  <li>Grischunaweg</li>
+  <li>Güterstrasse</li>
+  <li>Sägenstrasse</li>
+  <li>Rätusstrasse</li>
+  <li>Benerpark</li>
+  <li>Post 1</li>
+  <li>Bahnhofplatz</li>
+  <li>Alexanderplatz</li>
+  <li>Quader Center</li>
+  <li>Schulhaus Quader</li>
+  <li>Berggasse</li>
+  <li>Meierweg</li>
+  <li>Lochertstrasse</li>
+  <li>Fontanaspital</li>
+  <li>Arlibonstrasse</li>
+  <li>Fürstenwaldstrasse</li>
+  <li>Fürstenwald</li>
+</ul>

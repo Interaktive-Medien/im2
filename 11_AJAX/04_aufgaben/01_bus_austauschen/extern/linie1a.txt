@@ -1,0 +1,38 @@
+<h2>1</h2>
+<h3>Lachen – Bahnhofplatz – Plankis – Domat/Ems – Rhäzüns</h3>
+<ul>
+  <li>Turnerwiese</li>
+  <li>Amselweg</li>
+  <li>Wiesental</li>
+  <li>Giacomettistrasse</li>
+  <li>Lachen</li>
+  <li>Lacuna</li>
+  <li>Tulpenweg</li>
+  <li>Daleustrasse</li>
+  <li>Post 1</li>
+  <li>Bahnhofplatz</li>
+  <li>Postplatz</li>
+  <li>Malteser</li>
+  <li>Brambrüeschbahn/Stadthalle</li>
+  <li>Kaserne/Kornquader</li>
+  <li>Strassenverkehrsamt</li>
+  <li>Kalchbühl</li>
+  <li>Sommerau</li>
+  <li>Plankis</li>
+  <li>Felsberg, Emserstrasse</li>
+  <li>Domat/Ems, Abzw. Felsberg</li>
+  <li>Domat/Ems, Plarenga</li>
+  <li>Domat/Ems, Unterdorf</li>
+  <li>Domat/Ems, Plaz</li>
+  <li>Domat/Ems, Post</li>
+  <li>Domat/Ems, Tuma Platta</li>
+  <li>Domat/Ems, Padrusa</li>
+  <li>Domat/Ems, Ems Chemie</li>
+  <li>Tamins, Unterdorf</li>
+  <li>Reichenau, Adler</li>
+  <li>Bonaduz, Isla</li>
+  <li>Bonaduz, Alte Post</li>
+  <li>Bonaduz, Crusch</li>
+  <li>Rhäzüns, Dorfplatz</li>
+  <li>Rhäzüns, Luftseilbahn</li>
+</ul>

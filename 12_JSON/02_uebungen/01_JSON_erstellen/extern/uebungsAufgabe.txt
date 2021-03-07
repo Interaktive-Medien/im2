@@ -1,0 +1,21 @@
+/*  JSON | Übung 1 | 01_JSON_erstellen
+/*  Erstellen Sie in der Datei kanton1.json in diesem Verzeichnis
+/*  aus dem unten stehenden Code für ein JS-Objekt
+/*  einen valieden JSON-Code
+/*
+/*  Unterschiede zu JS-Objekten:
+/*    Es sind nur doppelte Anführungszeichen erlaubt
+/*    Alle Eigenschaftsnamen (links vom Doppelpunkt) müssen in Anführungszeichen stehen.
+/* ************************************ */
+
+
+{
+  name : "Bern",
+  amtssprache : ["Deutsch", " Französich"],
+  hauptort : "Bern",
+  flaeche : 5959.24,
+  bevoelkerung : {
+    einwohner : 1034977,
+    quote : "2,9 %"
+  }
+}

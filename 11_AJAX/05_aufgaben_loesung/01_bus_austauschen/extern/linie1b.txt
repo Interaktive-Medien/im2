@@ -1,0 +1,34 @@
+<h2>1</h2>
+<h3>Lachen – Bahnhofplatz – Plankis – Felsberg</h3>
+<ul>
+  <li>Turnerwiese</li>
+  <li>Amselweg</li>
+  <li>Wiesental</li>
+  <li>Giacomettistrasse</li>
+  <li>Lachen</li>
+  <li>Lacuna</li>
+  <li>Tulpenweg</li>
+  <li>Daleustrasse</li>
+  <li>Post 1</li>
+  <li>Bahnhofplatz</li>
+  <li>Postplatz</li>
+  <li>Malteser</li>
+  <li>Brambrüeschbahn/Stadthalle</li>
+  <li>Kaserne/Kornquader</li>
+  <li>Strassenverkehrsamt</li>
+  <li>Kalchbühl</li>
+  <li>Sommerau</li>
+  <li>Plankis</li>
+  <li>Felsberg, Emserstrasse</li>
+  <li>Felsberg, Abzweigung</li>
+  <li>Felsberg, Bahnhof</li>
+  <li>Felsberg, Brugg</li>
+  <li>Felsberg, Calanda</li>
+  <li>Felsberg, Schöneggstrasse</li>
+  <li>Felsberg, Bahnhofstrasse</li>
+  <li>Felsberg, Post</li>
+  <li>Felsberg, Underchrüzli</li>
+  <li>Felsberg, Kirchenstutz</li>
+  <li>Felsberg, Ringelweg</li>
+  <li>Felsberg, Rjterstutz/Aeuli</li>
+</ul>
