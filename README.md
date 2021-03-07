@@ -1,13 +1,5 @@
-# interaktiveMedien_II_Javascript
-Javascript Übungen Interaktive Medien II, ab HS 2020
-## Freiwillige Fragestunde
-Vor den Blockwochen gibt es eine «freiwillige Fragestunde». Auf Wunsch der Studierenden werden nicht nur Fragen aus dem Tutorial beantwortet, sondern einige exemplarische Beispiele besprochen. Themen:
-- Variablen
-- Ereignisse
-- Arrays
-- Bedingungen
-
-Das erste Beispiel ist ein Rollover, das zweite Beispiel eine Bildgalerie, das dritte Besipiel ein einfacher Taschenrechner, das letzte Beispiel eine einfache Zeitfunktion mit Änderung von Text und Hintergrundfarbe je nach Tageszeit. Dann gibt es drei Übungen.
+# Interaktive Medien II, Javascript
+Javascript Übungen Interaktive Medien II, FS 2021
 ## 01 Variablen
 - Übung 01: Alter berechnen
 - Übung 02: Versorgung, Anzahl Tassen Tee bis zum Lebensende
@@ -22,7 +14,7 @@ Das erste Beispiel ist ein Rollover, das zweite Beispiel eine Bildgalerie, das d
 - Übung 01: create Element, Versorgung, Anzahl Tassen Tee bis zum Lebensende
 - Übung 02: create Element, Versorgung, Anzahl Tassen Tee bis zum Lebensende, mehrere innerHTML
 - Übung 03: create Element, Versorgung, Anzahl Tassen Tee bis zum Lebensende, Style ändern
-- Übung 03: create Element, Versorgung, Anzahl Tassen Tee bis zum Lebensende, Klasse hinzufügen
+- Übung 04: create Element, Versorgung, Anzahl Tassen Tee bis zum Lebensende, Klasse hinzufügen
 ## 04 Events
 - Übung 01: Koch, klicken auf Button
 - Übung 02: Dimmer, mehr oder weniger Licht in Abhängigkeit Slider
@@ -44,10 +36,9 @@ Im Thema Funktionen wird beleuchtet, wie Funktionen eingesetzt werden können.
  - Aufbau von Funktionen
  - Übergabe von Werten über Funktionen
 
-Als Projekt wird eine Alert-Fuktion realisiert, die sich bei drei verschiedenen Knöpfen auch unterschiedlich verhält.
+Als Projekt wird eine Alert-Funktion realisiert, die sich bei drei verschiedenen Knöpfen auch unterschiedlich verhält.
 
 ## 08 Multimedia-Inhalte
-
 Im Thema Multimedia-Inhalte werden die beiden Tags ``<video></video>`` und ``<audio></audio>`` im Detail angeschaut.
 
 - Nutzen und Anwendungen
