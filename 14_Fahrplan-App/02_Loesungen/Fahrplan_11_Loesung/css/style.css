@@ -1,0 +1,51 @@
+body {
+  background: white;
+  font-family: helvetica;
+  padding: 50px;
+}
+
+.verbindung{
+
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 50%;
+  border: 2px solid red;
+  padding: 20px;
+}
+
+h1{
+  color:red;
+  font-weight: lighter;
+}
+
+input {
+  border: 2px solid gray;
+  padding: 10px;
+}
+
+#button-submit{
+  border: 2px solid red;
+}
+
+#button-loeschen{
+  border: 2px solid black;
+}
+
+button {
+  padding: 10px;
+  background-color: white;
+}
+
+ul {
+  margin-left: 0px;
+  padding-left: 0px;
+}
+
+li {
+  /* border: 2px solid black; */
+  width: 200px;
+  list-style-type: none;
+  margin: 5px;
+  margin-left: 0px;
+  cursor: pointer;
+}

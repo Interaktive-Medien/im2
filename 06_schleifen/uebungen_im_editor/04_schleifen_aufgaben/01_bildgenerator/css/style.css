@@ -1,0 +1,17 @@
+img {
+
+}
+
+body{
+
+  background-color: pink;
+}
+
+button{
+  position: absolute;
+
+  /* z-index steuert die Ebene der Elemente, je höhrer, desto höher liegt das Element */
+  z-index: 2;
+  font-size: 30px;
+
+}
