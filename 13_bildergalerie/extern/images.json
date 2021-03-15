@@ -1,0 +1,26 @@
+[
+  
+    { "img_id": "01", 
+      "title": "Zentrum Paul Klee Bern", 
+      "caption": "Innenbereich, Blick auf die Vorderseite des Gebäudes.",
+      "source": "/images/zentrum_paul_klee_1.jpeg"
+    },
+    
+    { "img_id": "02", 
+      "title": "Zentrum Paul Klee Bern",
+      "caption": "Innenbereich, Museumsshop mit vielen Artefakten wie Büchern, Spielen, Dekorationsobjekten und Geschenken.", 
+      "source": "/images/zentrum_paul_klee_2.jpeg"
+    },
+    
+    { "img_id": "03",
+      "title": "Zentrum Paul Klee Bern",
+      "caption": "Aussenbereich, wellenförmige Architektur, Fussweg zum Eingang.", 
+      "source": "/images/zentrum_paul_klee_3.jpeg"
+    },
+
+    {  "img_id": "04",
+      "title": "Zentrum Paul Klee Bern",
+      "caption": "Innenbereich, Ausstellungs- und Versammlungsraum. Menschen, die eine Besprechung haben.",
+      "source": "/images/zentrum_paul_klee_4.jpeg"
+    }
+]

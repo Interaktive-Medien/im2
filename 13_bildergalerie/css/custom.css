@@ -1,0 +1,118 @@
+* {
+  margin: 0px;
+  padding:0px;
+  box-sizing: border-box; 
+  background:whitesmoke; 
+}
+
+h1 {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding-top: 2rem;
+  text-align: center;}
+
+img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+}
+
+.mySlides {
+  display: none
+}
+
+.outer-container {
+  max-width: 1000px;
+  margin: auto;
+  margin-top: 50px;
+  position: relative;
+}
+
+.slideshow-container {
+  /* the maximum width is set to the width of the images in the file images.json, which all have the same width */
+  max-width: 853px;
+  margin: auto;
+  margin-top: 50px;
+  position: relative;
+}
+
+/* Next & previous arrows */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  z-index: 1;
+  padding: 0.5rem;
+  color: black;
+  font-size: 1.8rem;
+  transition: 0.6s ease;
+  user-select: none;
+}
+
+/* Position the "next arrow" to the right */
+.next {
+  right: 0%;
+  }
+
+/* when user hovers over an arrow, add a red background with 50% opacity */
+.prev:hover, .next:hover {
+  background-color: rgba(255, 0, 0, 0.5);
+}
+
+.image_id {
+  font-family: monospace;
+  font-size: 2rem;
+}
+
+.image_title {
+  font-family: monospace;
+  font-size: 1.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.image_caption {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding-top: 0.5rem;
+  font-size: 1rem;
+  color: red;
+}
+
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* on smaller screens: adapt spacing, reduce the size of text */
+
+@media screen and (max-width:885px)
+{
+  .image_id, .image_title, .image_caption {
+    padding-left: 0.5rem;
+  }
+}
+
+@media screen and (max-width:600px)
+{
+  h1 {
+    padding-top: 1.5rem;
+    font-size: 1.8rem;
+  }
+  .prev, .next {
+    font-size: 1.5rem;
+  }
+  .image_id {
+    font-size: 1.5rem;
+  }
+  .image_title {
+    font-size: 1rem;
+  }
+  .image_caption {
+    font-size: 0.7rem;
+  }
+}
+
