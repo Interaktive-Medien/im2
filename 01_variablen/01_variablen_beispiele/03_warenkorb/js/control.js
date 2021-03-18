@@ -1,4 +1,4 @@
-// zeige, wie man mit Variablen rechnet bzw. neue Werte assigned
+// zeige, wie man mit Variablen rechnet bzw. neue Werte zuweist
 
 let warenkorb = 0;
 
