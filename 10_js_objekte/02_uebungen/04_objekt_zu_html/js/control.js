@@ -21,29 +21,29 @@ let kanton1 = {
 
 // ungeordnete Liste (ul) als JS-Objelt "anzeige" erstellen
 
-// ungeordnete Liste (ul) als JS-Objelt "kanton_name" erstellen und ...
+// Listenpunkt (li) als JS-Objelt "kanton_name" erstellen und ...
 
 // ... als erstes Element an "anzeige" anhängen.
 
-// ungeordnete Liste (ul) als JS-Objelt "kanton_sprache" erstellen und ...
+// Listenpunkt (li) als JS-Objelt "kanton_sprache" erstellen und ...
 
-// ... als erstes Element an "anzeige" anhängen.
+// ... als nächstes Element an "anzeige" anhängen.
 
-// ungeordnete Liste (ul) als JS-Objelt "kanton_hauptort" erstellen und ...
+// Listenpunkt (li) als JS-Objelt "kanton_hauptort" erstellen und ...
 
-// ... als erstes Element an "anzeige" anhängen.
+// ... als nächstes Element an "anzeige" anhängen.
 
-// ungeordnete Liste (ul) als JS-Objelt "kanton_flaeche" erstellen und ...
+// Listenpunkt (li) als JS-Objelt "kanton_flaeche" erstellen und ...
 
-// ... als erstes Element an "anzeige" anhängen.
+// ... als nächstes Element an "anzeige" anhängen.
 
-// ungeordnete Liste (ul) als JS-Objelt "kanton_einwohner" erstellen und ...
+// Listenpunkt (li) als JS-Objelt "kanton_einwohner" erstellen und ...
 
-// ... als erstes Element an "anzeige" anhängen.
+// ... als nächstes Element an "anzeige" anhängen.
 
-// ungeordnete Liste (ul) als JS-Objelt "kanton_quote" erstellen und ...
+// Listenpunkt (li) als JS-Objelt "kanton_quote" erstellen und ...
 
-// ... als erstes Element an "anzeige" anhängen.
+// ... als nächstes Element an "anzeige" anhängen.
 
 
 // Informationen sammeln und aufbereiten
