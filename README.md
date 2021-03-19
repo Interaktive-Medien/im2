@@ -79,5 +79,5 @@ JSON ist ein sehr weit verbreitetes Datenaustauschformat. In JavaScript lässt s
 - JSON laden und Eigenschaften in der Webseite ausgeben
 - JSON-Inhalte mit Hilfe von Buttons austauschen
 
-##99_LiveBeispiele
+## 99_LiveBeispiele
 Hier ist sämtlicher Code, welcher in einer Live-Veranstaltung entstanden ist, zur vollständigkeit. Evtl. können daraus Übungen entstehen.
