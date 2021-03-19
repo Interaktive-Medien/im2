@@ -21,29 +21,29 @@ let kanton1 = {
 
 // ungeordnete Liste (ul) als JS-Objelt "anzeige" erstellen
 let anzeige = document.createElement('ul');
-// ungeordnete Liste (ul) als JS-Objelt "kanton_name" erstellen und ...
+// Listenpunkt (li) als JS-Objelt "kanton_name" erstellen und ...
 let kanton_name = document.createElement('li');
 // ... als erstes Element an "anzeige" anhängen.
 anzeige.appendChild(kanton_name);
-// ungeordnete Liste (ul) als JS-Objelt "kanton_sprache" erstellen und ...
+// Listenpunkt (li) als JS-Objelt "kanton_sprache" erstellen und ...
 let kanton_sprache = document.createElement('li');
-// ... als erstes Element an "anzeige" anhängen.
+// ... als nächstes Element an "anzeige" anhängen.
 anzeige.appendChild(kanton_sprache);
-// ungeordnete Liste (ul) als JS-Objelt "kanton_hauptort" erstellen und ...
+// Listenpunkt (li) als JS-Objelt "kanton_hauptort" erstellen und ...
 let kanton_hauptort = document.createElement('li');
-// ... als erstes Element an "anzeige" anhängen.
+// ... als nächstes Element an "anzeige" anhängen.
 anzeige.appendChild(kanton_hauptort);
-// ungeordnete Liste (ul) als JS-Objelt "kanton_flaeche" erstellen und ...
+// Listenpunkt (li) als JS-Objelt "kanton_flaeche" erstellen und ...
 let kanton_flaeche = document.createElement('li');
-// ... als erstes Element an "anzeige" anhängen.
+// ... als nächstes Element an "anzeige" anhängen.
 anzeige.appendChild(kanton_flaeche);
-// ungeordnete Liste (ul) als JS-Objelt "kanton_einwohner" erstellen und ...
+// Listenpunkt (li) als JS-Objelt "kanton_einwohner" erstellen und ...
 let kanton_einwohner = document.createElement('li');
-// ... als erstes Element an "anzeige" anhängen.
+// ... als nächstes Element an "anzeige" anhängen.
 anzeige.appendChild(kanton_einwohner);
-// ungeordnete Liste (ul) als JS-Objelt "kanton_quote" erstellen und ...
+// Listenpunkt (li) als JS-Objelt "kanton_quote" erstellen und ...
 let kanton_quote = document.createElement('li');
-// ... als erstes Element an "anzeige" anhängen.
+// ... als nächstes Element an "anzeige" anhängen.
 anzeige.appendChild(kanton_quote);
 
 // Informationen sammeln und aufbereiten

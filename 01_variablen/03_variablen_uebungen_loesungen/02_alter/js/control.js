@@ -3,15 +3,15 @@
 // Gib dein Resultat in der Konsole in einem Satz aus.
 
 // Beispiellösung:
-// Im Jahr 2020 werde ich 23 oder 24 Jahre alt sein.
+// Im Jahr 2022 werde ich 25 oder 26 Jahre alt sein.
 
-// definieren der Variable geburtsjahr
+// definieren der Variable "geburtsjahr"
 let geburtsjahr = 1996;
 
-// definieren der Variable Jahr "heute"
-let heute  = 2020;
+// definieren der Variable "heute"
+let heute  = 2022;
 
-// deklarieren der Variable alter
+// deklarieren der Variable "alter"
 let alter;
 
 // Berechnung des Alters mit der Formel heute - geburtsjahr (Bsp. 2020 - 1996 = 24)

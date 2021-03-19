@@ -1,4 +1,4 @@
-// zeige, wie man mit Variablen rechnet bzw. neue Werte assigned
+// zeige, wie man mit Variablen rechnet bzw. neue Werte zuweist
 
 let warenkorb = 0;
 
@@ -17,5 +17,5 @@ let status = "ist eingeloggt";
 
 console.log(name + " " + status);
 
-name = "Martin"
-console.log(name + " " + status);
+name = "Martin";
+console.log(name + " " + status);
