@@ -1,0 +1,47 @@
+/* Deine eigenen Chart Styles */
+
+table {
+    width: 100%;
+    padding: 0.5rem;
+    /* Entfernt die weissen feinen Ränder / Border um die Zellen: */
+    border-collapse: collapse;
+}
+
+thead th {
+    padding: 0.25rem;
+    background-color: rgba(0,0,0,0.05);
+    /* Bold Font Style von Roboto wird für die Titelzeile verwendet: */
+    font-weight: 700;
+}
+
+tbody td {
+    padding: 0.25rem;
+}
+
+tbody tr:nth-child(even) {
+    background-color: rgba(0,0,0,0.025);
+}
+
+th {
+    /* Die Header Spalten sollen grundsätzlich rechtsbündig ausgerichtet sein */
+    text-align: right;
+    line-height: 20px;
+    vertical-align: middle;
+}
+
+/* Damit steuern wir die erste Spalte in der Header-Zeile an, diese wollen wir linksbündig, also eine Ausnahme der Klasse zuvor */
+th:first-child {
+    text-align: left;
+}
+
+/* Hiermit alle Spalten, ausser die erste, in allen Rows (alle <td> Elemente, ob thead oder tbody) */
+/* Tipp: Wie das mit nth-child funktioniert, findet ihr hier: https://css-tricks.com/examples/nth-child-tester/ */
+td:nth-child(1n+2) {
+    text-align: right;
+}
+
+/* Icon-Klasse für die SVG-Images */
+/* Wir geben dem Icon eine max-width von 20px, das SVG wird sauber auf die Grösse gerendert */
+.icon {
+    max-width: 20px;
+}

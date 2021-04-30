@@ -1,0 +1,91 @@
+/* Deine eigenen Chart Styles */
+
+table {
+    width: 100%;
+    padding: 0.5rem;
+    /* Entfernt die weissen feinen Ränder / Border um die Zellen: */
+    border-collapse: collapse;
+}
+
+thead th {
+    padding: 0.25rem;
+    background-color: rgba(0,0,0,0.05);
+    /* Bold Font Style von Roboto wird für die Titelzeile verwendet: */
+    font-weight: 700;
+}
+
+/* NEU: Wir geben den Spalten eine einheitliche Breite, damit die Balken
+alle dieselbe prozentuale Breite bekommen. Dies gilt nur für die Spalten, die
+Zahlen enthalten, nicht für die Spalte "Erwerbsstatus".
+Der Pseudo-Selektor :not(first-child) schliesst somit die erste Spalte für die kommende
+Definition aus. Wir definieren eine max-width, damit die Spalten nicht breiter als
+die angegebene Pixel-Anzahl werden darf.
+ */
+thead th:not(first-child) {
+    max-width: 80px;
+}
+
+tbody td {
+    padding: 0.25rem;
+}
+
+tbody tr:nth-child(even) {
+    background-color: rgba(0,0,0,0.025);
+}
+
+th {
+    /* Die Header Spalten sollen grundsätzlich rechtsbündig ausgerichtet sein */
+    text-align: right;
+    line-height: 20px;
+    vertical-align: middle;
+}
+
+/* Damit steuern wir die erste Spalte in der Header-Zeile an, diese wollen wir linksbündig, also eine Ausnahme der Klasse zuvor */
+th:first-child {
+    text-align: left;
+}
+
+/* Hiermit alle Spalten, ausser die erste, in allen Rows (alle <td> Elemente, ob thead oder tbody) */
+/* Tipp: Wie das mit nth-child funktioniert, findet ihr hier: https://css-tricks.com/examples/nth-child-tester/ */
+td:nth-child(1n+2) {
+    text-align: right;
+}
+
+/* Icon-Klasse für die SVG-Images */
+/* Wir geben dem Icon eine max-width von 20px, das SVG wird sauber auf die Grösse gerendert */
+.icon {
+    max-width: 20px;
+}
+
+/* Die Bälkchen sollen alle 10px Höhe haben, und wir verwenden die Variable für die Farbe Dunkelgrau */
+/* Diese Farbvariabeln sind in theme.css definiert */
+.bar {
+    height: 5px;
+    background-color: var(--color-grey-dark);
+    margin: 5px 0;
+}
+
+.piktogramm {
+    margin: 2rem auto;
+}
+
+.pomodoro {
+    width: 5%;
+    margin: 5px;
+    opacity: 0;
+    transition: opacity 0.5s;
+    will-change: opacity;
+}
+
+.pomodoro.visible {
+    opacity: 1;
+}
+
+.big-number {
+    color: #ff6347;
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+    font-size: 3em;
+    padding: 0;
+    margin: 0;
+}

@@ -1,0 +1,32 @@
+[
+	{
+		"Erwerbsstatus": "Selbständigerwerbende",
+		"Männer": 51.5,
+		"Frauen": 47.8,
+		"Total": 50.05
+	},
+	{
+		"Erwerbsstatus": "Arbeitnehmende in eigener Firma",
+		"Männer": 48.7,
+		"Frauen": 46.5,
+		"Total": 48.4
+	},
+	{
+		"Erwerbsstatus": "Mitarbeitende Familienmitglieder",
+		"Männer": 46.7,
+		"Frauen": 45.7,
+		"Total": 46.3
+	},
+	{
+		"Erwerbsstatus": "Arbeitnehmende",
+		"Männer": 41.5,
+		"Frauen": 40.3,
+		"Total": 41.1
+	},
+	{
+		"Erwerbsstatus": "Lehrlinge",
+		"Männer": 30.0,
+		"Frauen": 28.8,
+		"Total": 29.5
+	}
+]
