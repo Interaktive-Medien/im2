@@ -23,6 +23,7 @@ https://www.youtube.com/watch?v=8-yIgXpjQuY&list=PLS1hZNcGg7eFWRANh7_2jiCFVMtR9m
 ### Übung 5 / Tagesprojekt, Tag 2
 https://www.youtube.com/watch?v=a3XbobIzWfQ&list=PLS1hZNcGg7eFWRANh7_2jiCFVMtR9mxXB&index=6
 
-## Video 4
-### Zusatzübungen
+## Video 4, Tag 2
+
+### Zusatzübungen, basierend auf Übung 5
 https://www.youtube.com/watch?v=ElaALchlxXs&list=PLS1hZNcGg7eFWRANh7_2jiCFVMtR9mxXB&index=7

@@ -1,7 +1,5 @@
-# Die Slides zu den Vorlesungen sind hier zu finden:
-https://docs.google.com/presentation/d/1Jp8Dt7fRTX3LPE4y5ah5O7ZReHOYMTb5_mbJ2_WHla0
+### Slides: Live auf Google Drive
 
-# Kurs-Feedback
+Die Slides leben auf einem Google Drive und können während dem Unterricht bei Bedarf weiter ausgebaut werden. Ich empfehle euch, die Slides im Browser durchzugehen. Alternativ könnt ihr das gesamte Paket auch als PDF herunterladen.
 
-Bitte gebt mir doch kurz Bescheid, wie ihr diese beiden Tage fandet:
-https://forms.gle/CcKozUZVyDFEqSxK8
+Link zu den Slides: https://bit.ly/fhgr-datavis
