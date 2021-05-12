@@ -14,7 +14,7 @@ Insgesamt gibt es 6 Übungen zu lösen. Ich empfehle, dass die Aufgaben 1-4 an e
 
 ### Fragen: Slack
 
-Bitte via Slack Channels Fragen stellen. Ich (und die Tutoren) werden die ganze Zeit durch online sein und euch weiterhelfen, so wir können. Gibt es Themen, bei denen ihr wirklich nicht weiterkommt, meldet das bitte. Ich kann gerne zu spezifischen Topics kurze, spontane Video-Inputs geben, falls gewünscht.
+Bitte via Slack Channels Fragen stellen. Ich (und die Tutoren) werden die ganze Zeit durch online sein und euch weiterhelfen, so gut wir können. Gibt es Themen, bei denen ihr wirklich nicht weiterkommt, meldet das bitte. Ich kann gerne zu spezifischen Topics kurze, spontane Video-Inputs geben, falls gewünscht.
 
 ### Übungsdateien (inklusive Musterlösungen)
 
