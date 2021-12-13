@@ -1,5 +1,5 @@
 // Mit fetch() -Funktion die externe Datei 'extern/person1.json' laden.
-fetch('extern/person1.json')
+fetch('extern/adressen.json')
   .then((response) => {
     // Definiert, welches Format die Antwort hat (wichtig für den nächsten Teil)
     // !!!!! hier JSON !!!!!!
