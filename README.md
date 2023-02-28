@@ -21,22 +21,16 @@ Javascript Übungen Interaktive Medien II, FS 2021
 - Übung 03: Audioplayer, Ereignis mit Start und Pause
 - Übung 04: Layers, mehr über das Ereignis Click herausfinden
 ## 05 Arrays
-Im Thema werden Arrays und assoziative Arrays beleuchtet. Es wird erlernt, wie diese erstellt, ausgelesen und manipuliert werden.
-Als Projekt, wird ein assoziatives Array über die eigene Persönlichkeit erstellt um die Tiefe der Thematik zu erfassen.
+- Übung 01: Einkaufsliste als Array, hinzufügen, löschen, sortieren
+- Übung 02: Kühlschrank als assoziatives Array, hinzufügen, sortieren, ersetzen
 ## 06 Schleifen
-Im Thema Schleifen werden die verschiedenen Arten von Schleifen betrachtet:
- - For
- - ForEach
- - While
-
-Als Übung wird durch ein verschachteltes assoziatives Array iteriert um sämtliche Werte auslesen zu können.
+- Übung 01: Einkaufsliste, ein Array zu einem anderen Array hinzufügen
+- Übung 02: Kühlschrank als assoziatives Array, jedes zweite Element aus einem Array löschen
 ## 07 Funktionen
-Im Thema Funktionen wird beleuchtet, wie Funktionen eingesetzt werden können.
- - Aufruf von Funktionen
- - Aufbau von Funktionen
- - Übergabe von Werten über Funktionen
+- Übung 01: Einkaufsliste, mit Hilfe von Buttons und Eingabefeldern manipulieren
+- Übung 02: Kühlschrank mit Hilfe von Buttons, einzelne Elemente löschen
+- Übung 03: Bildgenerator, Bilder laden und anzeigen
 
-Als Projekt wird eine Alert-Funktion realisiert, die sich bei drei verschiedenen Knöpfen auch unterschiedlich verhält.
 
 ## 08 Multimedia-Inhalte
 Im Thema Multimedia-Inhalte werden die beiden Tags ``<video></video>`` und ``<audio></audio>`` im Detail angeschaut.
