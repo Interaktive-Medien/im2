@@ -9,7 +9,6 @@ Javascript Übungen Interaktive Medien II, FS 2021
 - Übung 01: Übersetzer, Text in Abhängigkeit der Sprache in Variable
 - Übung 02: Notenrechner, Note in Abhängigkeit der Punktzahl
 - Übung 03: Pluralisator, Ausgabe in abhängigkeit von Ein- und Mehrzahl
-- Übung 04: Übersetzer, Text in Abhängigkeit der Sprache des HTML-Dokuments
 ## 03 DOM
 - Übung 01: create Element, Versorgung, Anzahl Tassen Tee bis zum Lebensende
 - Übung 02: create Element, Versorgung, Anzahl Tassen Tee bis zum Lebensende, mehrere innerHTML
