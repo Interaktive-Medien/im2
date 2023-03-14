@@ -1,4 +1,4 @@
-// Ein ängstlicher Bürger plant, wegen des Coronavirus sein Haus nicht mehr zu verlassen.
+// Ein ängstlicher Bürger plant sein Haus nicht mehr zu verlassen.
 // Entwickle einen Versorgungsrechner, der ihm in der Konsole ausgibt,
 // wie viele Beutel Tee oder Packungen Pasta er heute kaufen muss,
 // um bis an sein Lebensende auszuharren.
