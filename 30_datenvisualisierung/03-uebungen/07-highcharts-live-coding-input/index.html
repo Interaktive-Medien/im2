@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>IM2 Datenvisualisierung | Live-Coding Projekt</title>
+		<link rel="stylesheet" href="styles.css" />
+		
+		<!-- PapaParse Library einbinden -->
+		<script
+			src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"
+			integrity="sha512-dfX5uYVXzyU8+KHqj8bjo7UkOdg18PaOtpa48djpNbZHwExddghZ+ZmzWT06R5v6NSk3ZUfsH6FNEDepLx9hPQ=="
+			crossorigin="anonymous"
+			referrerpolicy="no-referrer"
+		></script>
+
+		<!-- Highcharts Library einbinden -->
+		<script
+			src="https://cdnjs.cloudflare.com/ajax/libs/highcharts/11.0.1/highcharts.js"
+			integrity="sha512-bdh59dK4gjyd/T+ptbOau3WEjtNLRy1eWtYkAfv2PCQODTaN2XXLVWKGQbPLbd5JB1Gn1oStmblZMSgXY29nrA=="
+			crossorigin="anonymous"
+			referrerpolicy="no-referrer"
+		></script>
+
+		<script src="script.js"></script>
+	</head>
+
+	<body>
+		<header>
+			<h1>Datenvisualisierung</h1>
+			<p>Ein kleines Live-Coding Beispiel für IM2 in Bern.</p>
+		</header>
+
+		<main>
+			<div id="chart">
+				<p class="warning">Hier soll der Chart eingefügt werden. Wir arbeiten mit Highcharts.</p>
+			</div>
+		</main>
+
+		<footer>
+			<p>Daten: <a href="https://www.kaggle.com/datasets/rakannimer/air-passengers?resource=download" target="_blank">kaggle.com</a></p>
+		</footer>
+	</body>
+</html>

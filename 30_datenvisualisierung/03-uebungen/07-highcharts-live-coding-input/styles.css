@@ -1,0 +1,44 @@
+/* Rest body und html */
+body {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	width: 900px;
+	max-width: 90%;
+	margin: 2rem auto;
+}
+
+/* Arial bzw. sans-serif als Standardfont */
+* {
+	font-family: 'Arial', sans-serif;
+}
+
+/* Heading 1 und paragraph ohne margin */
+h1 {
+	margin: 0;
+}
+
+p {
+	margin-top: 0;
+	margin-bottom: 1rem;
+}
+
+/* Footer soll Text mit grauem Hintergrund und weisser Schrift erhalten */
+footer {
+	font-style: italic;
+	background: #ccc;
+	padding: 1rem 2rem;
+	text-align: center;
+}
+
+footer p {
+	margin: 0;
+}
+
+/* Klasse, die Text mit der Farbe salmon hinterlegt, Schrift weiss macht und zentriert */
+.warning {
+	background: salmon;
+	color: white;
+	padding: 1rem 2rem;
+	text-align: center;
+}
